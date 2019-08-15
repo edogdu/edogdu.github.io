@@ -1,5 +1,13 @@
 - title: "Research"
-  href: research.html
+  subcategories:
+    - subtitle: "Research"
+      subhref: "/research/"
+    - subtitle: "Research Support"
+      subhref: "/research_support/"
+    - subtitle: "Publications"
+      subhref: "/publications/"
+    - subtitle: "Talks"
+      subhref: "/talks/"
 
 - title: "CV"
   href: "/cv/"
