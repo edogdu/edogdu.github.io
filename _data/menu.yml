@@ -5,12 +5,8 @@
   href: "/cv/"
   
 - title: "Publications"
-  subcategories:
-    - subtitle: "Shiny apps"
-      subhref: "/shiny/"
-    - subtitle: "Packages & Code"
-      subhref: "/packages/"
-
+  href: https://scholar.google.com/citations?user=qf_m43MAAAAJ&hl=en&authuser=1
+    
 - title: "Teaching"
   subcategories:
     - subtitle: "Math/Stats II"
