@@ -9,7 +9,7 @@ permalink: /
 
 {% include icon-github.html username="edogdu" %} /
 {% include icon-twitter.html username="erdogandogdu" %} /
-<i class='fa fa-fire'></i> <a href="http://bit.ly/minnier-ohsu-sph">ohsu website</a>
+<i class='fa fa-fire'></i> <a href="http://">... website</a>
 
 I am a professor of computer science at ...
 
