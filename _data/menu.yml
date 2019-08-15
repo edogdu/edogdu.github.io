@@ -12,7 +12,7 @@
 - title: "CV"
   href: "/cv/"
   
-- title: "#rstats"
+- title: "Publications"
   subcategories:
     - subtitle: "Shiny apps"
       subhref: "/shiny/"
@@ -30,7 +30,7 @@
     - subtitle: "Other"
       subhref: "/teaching_other/"
 
-- title: "Misc"
+- title: "Students"
   subcategories:
     - subtitle: "Photos"
       subhref: https://phoebeleephotographee.tumblr.com/
