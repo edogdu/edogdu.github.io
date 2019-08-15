@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jessica Minnier, Ph.D.
-email: minnier@ohsu.edu
+title: Erdogan Dogdu, Ph.D.
+email: erdogandogdu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jessica Minnier, Ph.D.
+  Erdogan Dogdu, Ph.D.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jminnier.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: datapointier
-github_username:  jminnier
-sourcecode: "http://github.com/jminnier/jminnier.github.io"
+url: "http://edogdu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: erdogandogdu
+github_username:  edogdu
+sourcecode: "http://github.com/edogdu/edogdu.github.io"
 analytics.provider: "custom"
 
 # Build settings
