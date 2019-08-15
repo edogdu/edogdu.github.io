@@ -1,26 +1,14 @@
 - title: "Research"
   href: research.html
-
-- title: "CV"
-  href: "/cv/"
   
 - title: "Publications"
   href: https://scholar.google.com/citations?user=qf_m43MAAAAJ&hl=en&authuser=1
-    
+
 - title: "Teaching"
-  subcategories:
-    - subtitle: "Math/Stats II"
-      subhref: "/bsta552/"
-    - subtitle: "RNA-seq Nano Course"
-      subhref: "/rnaseq_nano/"
-    - subtitle: "Intro to Biostats"
-      subhref: "/intro_biostats/"
-    - subtitle: "Other"
-      subhref: "/teaching_other/"
+  href: teaching.html
 
 - title: "Students"
-  subcategories:
-    - subtitle: "Photos"
-      subhref: https://phoebeleephotographee.tumblr.com/
-    - subtitle: "Links"
-      subhref: "/links/"
+  href: students.html
+
+- title: "CV"
+  href: "/cv/"
