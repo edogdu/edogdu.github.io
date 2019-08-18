@@ -1,2 +1,2 @@
-jminnier.github.io
+edogdu.github.io
 ==================
