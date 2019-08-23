@@ -7,7 +7,7 @@ title: Research
 
 ## Research Interests
 
-{% include image.html url="/images/vermont.jpg" caption="" height="400px" align="right" %} 
+{% include image.html url="/images/big_data.jpg" caption="" height="400px" align="right" %} 
 
 
 ### Semantic Web and Linked Data
