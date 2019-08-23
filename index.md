@@ -16,7 +16,7 @@ Research Interests:
 
 {% include icon-github.html username="edogdu" %} /
 {% include icon-twitter.html username="erdogandogdu" %} /
-<i class='fa fa-fire'></i> <a href="http://">... website</a>
+<i class='fa fa-fire'></i> <a href="http://edogdu.github.oi">website</a>
 
 <i class="fa fa-envelope" aria-hidden="true"></i> erdogandogdu [at] gmail [dot] com
 
