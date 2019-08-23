@@ -30,6 +30,7 @@ The Semantic Web is made up of technologies that will shape the future of the We
 Data in digital form keeps growing with the advances in Internet and Web technologies. Big Data Analytics is the the process of examining large, unconventional (structured, unstructured, semi-structured and mixed) data to find hidden patterns, unknown correlations, other useful information so that the discovered knowledge can be used by organizations, individuals, and governments to make informed decisions. Big Data research area covers a number of different research directions. Our focus is both (1) on the discovery of new methods for the processing, exploration and analysis of large datasets, and (2) on the application of known methods to the existing big data problems in order to discover, learn, and predict from data. Towards this end we use and apply methods from machine learning, data mining, statistical analysis, and recently deep learning techniques. We also utilize and extend many methods in the areas of text mining and analytics, web analytics, information extraction, graph data and analytics, and semantics. Application areas include web, semantic web, Internet of Things (IoT), financial data, and large corpus of text data.
 
 ---
+
 ##### Recent Publications
 
 - Sezer, Omer Berat, Dogdu, Erdogan, Ozbayoglu, Ahmet Murat (2017). Context Aware Computing, Learning and Big Data in Internet of Things: A Survey in IEEE Internet of Things Journal, vol. PP, no. 99, pp. 1-1.
