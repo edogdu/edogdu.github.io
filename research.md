@@ -4,7 +4,14 @@ permalink: research.html
 title: Research
 ---
 
-
+<style> 
+        img { 
+            filter: drop-shadow(5px 5px 5px #222); 
+            width:200px; 
+            height:220px; 
+        } 
+</style> 
+    
 ## Research Interests
 
 {% include image.html url="/images/sem_web.jpg" caption="" height="300px" align="right" %} 
