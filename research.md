@@ -15,16 +15,14 @@ title: Research
 The Semantic Web is made up of technologies that will shape the future of the Web, also referred to as Web 3.0, designed to overcome the shortcomings of the current Web. The future of the Web will continue to be a Web of Documents, but at the same time will be a data network (Web of Data). This data network (Semantic Web) will be easily used by not just people, but by machines, computers and software, and the desired information will be found much faster. In the field of semantic web, we are working on the design and development of (1) ontology-based complex software systems, (2) the discovery and analysis of linked data, and (3) the semantically analysing the meaning of texts using linked data. These studies will lead to the development of question-and-answer systems, smart search engines, smart digital assistants. (translation from Turkish by Google, amazing! with some minor corrections).
 
 ---
-**NOTE**
+##### Recent Publications
 
-#### Recent Publications
-
-Sadigh, Bahram Lotfi, Unver, Hakki Ozgur, Nikghadam, Shahrzad, Dogdu, Erdogan, Ozbayoglu, A Murat, and Kilic, S Engin (2016). An Ontology based Multi-Agent Virtual Enterprise System (OMAVE): Part 1: Domain modelling and Rule Management. In International Journal of Computer Integrated Manufacturing. 30 (2-3), 320–343. Taylor & Francis.
-Yumusak, Semih, Dogdu, Erdogan, Kodaz, Halife, and Kamilaris, Andreas (2016). SpEnD: Linked Data SPARQL Endpoints Discovery Using Search Engines. In IEICE Tran. on Information and Systems. 100 (4), 758–767
-Yucesan, Mehmet Mert, and Dogdu, Erdogan (2016). News Clustering Using Linked Data Resources and Their Relationships. In Proc. of the International Conference on Artificial Intelligence and Data Processing (IDAP)
-Sezer, Omer Berat, Dogdu, Erdogan, Ozbayoglu, Murat, and Onal, Aras (2016). An Extended IoT Framework with Semantics, Big Data, and Analytics. In IEEE International Conference on Big Data.
-Kulcu, Sercan, Dogdu, Erdogan, and Ozbayoglu, A. Murat (2016). A Survey on Semantic Web and Big Data Technologies for Social Network Analysis. In IEEE International Conference on Big Data.
-Hakimov, Sherzod, Oto, Salih Atilay, and Dogdu, Erdogan (2012). Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th International Workshop on Semantic Web Information Management.
+- Sadigh, Bahram Lotfi, Unver, Hakki Ozgur, Nikghadam, Shahrzad, Dogdu, Erdogan, Ozbayoglu, A Murat, and Kilic, S Engin (2016). An Ontology based Multi-Agent Virtual Enterprise System (OMAVE): Part 1: Domain modelling and Rule Management. In International Journal of Computer Integrated Manufacturing. 30 (2-3), 320–343. Taylor & Francis.
+- Yumusak, Semih, Dogdu, Erdogan, Kodaz, Halife, and Kamilaris, Andreas (2016). SpEnD: Linked Data SPARQL Endpoints Discovery Using Search Engines. In IEICE Tran. on Information and Systems. 100 (4), 758–767
+- Yucesan, Mehmet Mert, and Dogdu, Erdogan (2016). News Clustering Using Linked Data Resources and Their Relationships. In Proc. of the International Conference on Artificial Intelligence and Data Processing (IDAP)
+- Sezer, Omer Berat, Dogdu, Erdogan, Ozbayoglu, Murat, and Onal, Aras (2016). An Extended IoT Framework with Semantics, Big Data, and Analytics. In IEEE International Conference on Big Data.
+- Kulcu, Sercan, Dogdu, Erdogan, and Ozbayoglu, A. Murat (2016). A Survey on Semantic Web and Big Data Technologies for Social Network Analysis. In IEEE International Conference on Big Data.
+- Hakimov, Sherzod, Oto, Salih Atilay, and Dogdu, Erdogan (2012). Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th International Workshop on Semantic Web Information Management.
 ---
 
 ### Data Science, Big Data, and Machine Learning
