@@ -10,15 +10,13 @@ title: Research
 {% include image.html url="/images/vermont.jpg" caption="" height="400px" align="right" %} 
 
 
-...
-
 ### Semantic Web and Linked Data
 
-...
+The Semantic Web is made up of technologies that will shape the future of the Web, also referred to as Web 3.0, designed to overcome the shortcomings of the current Web. The future of the Web will continue to be a Web of Documents, but at the same time will be a data network (Web of Data). This data network (Semantic Web) will be easily used by not just people, but by machines, computers and software, and the desired information will be found much faster. In the field of semantic web, we are working on the design and development of (1) ontology-based complex software systems, (2) the discovery and analysis of linked data, and (3) the semantically analysing the meaning of texts using linked data. These studies will lead to the development of question-and-answer systems, smart search engines, smart digital assistants. (translation from Turkish by Google, amazing! with some minor corrections).
 
-### Data Science and Machine Learning
+### Data Science, Big Data, and Machine Learning
 
-...
+Data in digital form keeps growing with the advances in Internet and Web technologies. Big Data Analytics is the the process of examining large, unconventional (structured, unstructured, semi-structured and mixed) data to find hidden patterns, unknown correlations, other useful information so that the discovered knowledge can be used by organizations, individuals, and governments to make informed decisions. Big Data research area covers a number of different research directions. Our focus is both (1) on the discovery of new methods for the processing, exploration and analysis of large datasets, and (2) on the application of known methods to the existing big data problems in order to discover, learn, and predict from data. Towards this end we use and apply methods from machine learning, data mining, statistical analysis, and recently deep learning techniques. We also utilize and extend many methods in the areas of text mining and analytics, web analytics, information extraction, graph data and analytics, and semantics. Application areas include web, semantic web, Internet of Things (IoT), financial data, and large corpus of text data.
 
 <h2>Funded Research Projects</h2>
 <p><strong><a href="https://itea3.org/project/seas.html" target="_blank">SEAS: Smart Energy Aware Systems</a></strong><br />
