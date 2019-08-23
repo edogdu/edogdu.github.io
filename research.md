@@ -29,6 +29,20 @@ The Semantic Web is made up of technologies that will shape the future of the We
 
 Data in digital form keeps growing with the advances in Internet and Web technologies. Big Data Analytics is the the process of examining large, unconventional (structured, unstructured, semi-structured and mixed) data to find hidden patterns, unknown correlations, other useful information so that the discovered knowledge can be used by organizations, individuals, and governments to make informed decisions. Big Data research area covers a number of different research directions. Our focus is both (1) on the discovery of new methods for the processing, exploration and analysis of large datasets, and (2) on the application of known methods to the existing big data problems in order to discover, learn, and predict from data. Towards this end we use and apply methods from machine learning, data mining, statistical analysis, and recently deep learning techniques. We also utilize and extend many methods in the areas of text mining and analytics, web analytics, information extraction, graph data and analytics, and semantics. Application areas include web, semantic web, Internet of Things (IoT), financial data, and large corpus of text data.
 
+---
+##### Recent Publications
+
+- Sezer, Omer Berat, Dogdu, Erdogan, Ozbayoglu, Ahmet Murat (2017). Context Aware Computing, Learning and Big Data in Internet of Things: A Survey in IEEE Internet of Things Journal, vol. PP, no. 99, pp. 1-1.
+- Yumusak, Semih, Dogdu, Erdogan, Kodaz, Halife, and Kamilaris, Andreas (2016). SpEnD: Linked Data SPARQL Endpoints Discovery Using Search Engines. In IEICE Tran. on Information and Systems. 100 (4), 758–767
+- Sezer, O. B., Ozbayoglu, A. M., & Dogdu, E. (2017). An Artificial Neural Network-based Stock Trading System Using Technical Analysis and Big Data Framework. In Proceedings of the SouthEast Conference (pp. 223-226). ACM.
+- Uysal, E., Yumusak, S., Oztoprak, K., & Dogdu, E. (2017). Sentiment Analysis for the Social Media: A Case Study for Turkish General Elections. In Proceedings of the SouthEast Conference (pp. 215-218). ACM.
+- Ozbayoglu, Murat, Kucukayan, Gokhan, and Dogdu, Erdogan (2016). A Real-Time Autonomous Highway Accident Detection Model Based on Big Data Processing and Computational Intelligence. In IEEE International Conference on Big Data.
+- Sezer, Omer Berat, Dogdu, Erdogan, Ozbayoglu, Murat, and Onal, Aras (2016). An Extended IoT Framework with Semantics, Big Data, and Analytics. In IEEE International Conference on Big Data.
+- Karimov, Jeyhun, Ozbayoglu, Murat, and Dogdu, Erdogan (2015). k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments. In Proceedings of the 2015 IEEE International Congress on Big Data.
+- Hakimov, Sherzod, Oto, Salih Atilay, and Dogdu, Erdogan (2012). Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th International Workshop on Semantic Web Information Management.
+---
+
+
 <h2>Funded Research Projects</h2>
 <p><strong><a href="https://itea3.org/project/seas.html" target="_blank">SEAS: Smart Energy Aware Systems</a></strong><br />
 Increasing energy efficiency and sustainability via smart energy aware systems in building and micro-grid environments. Use case analysis, SEAS information model and ontology design, SEAS information exchange and web services platform design.</p>
