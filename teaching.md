@@ -6,7 +6,7 @@ title: Teaching
 
 <h2>Fall 2019</h2>
 <ul>
-<li><a title="Java Programming" href="https://piazza.com/angelo.edu/fall2019/cs1351/home" target="_blank" rel="noopener">CS 1351 Java Programming</a></li>
+<li><a title="Java Programming" href="https://piazza.com/angelo/fall2019/cs1351/home" target="_blank" rel="noopener">CS 1351 Java Programming</a></li>
 </ul>
 
 <h2>Spring 2019</h2>
