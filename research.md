@@ -6,7 +6,7 @@ title: Research
 
 <style> 
         img { 
-            filter: drop-shadow(5px 5px 5px #222); 
+            filter: drop-shadow(8px 8px 8px #111); 
         } 
 </style> 
     
