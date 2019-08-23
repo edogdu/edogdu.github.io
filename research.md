@@ -7,7 +7,7 @@ title: Research
 
 ## Research Interests
 
-{% include image.html url="/images/sem_web.jpg" caption="" align="right" %} 
+{% include image.html url="/images/sem_web.jpg" caption="Semantic Web" height="300px" align="right" %} 
 
 
 ### Semantic Web and Linked Data
@@ -26,7 +26,7 @@ The Semantic Web is made up of technologies that will shape the future of the We
 
 ---
 
-{% include image.html url="/images/big_data.jpg" caption="" align="right" %}
+{% include image.html url="/images/big_data.jpg" caption="Big Data" height="300px" align="right" %}
 
 ### Data Science, Big Data, and Machine Learning
 
