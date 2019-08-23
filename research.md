@@ -7,7 +7,7 @@ title: Research
 
 ## Research Interests
 
-{% include image.html url="/images/big_data.jpg" caption="" height="400px" align="right" %} 
+{% include image.html url="/images/sem_web.jpg" caption="" height="400px" align="right" %} 
 
 
 ### Semantic Web and Linked Data
@@ -24,6 +24,8 @@ The Semantic Web is made up of technologies that will shape the future of the We
 - Kulcu, Sercan, Dogdu, Erdogan, and Ozbayoglu, A. Murat (2016). A Survey on Semantic Web and Big Data Technologies for Social Network Analysis. In IEEE International Conference on Big Data.
 - Hakimov, Sherzod, Oto, Salih Atilay, and Dogdu, Erdogan (2012). Named entity recognition and disambiguation using linked data and graph-based centrality scoring. In Proceedings of the 4th International Workshop on Semantic Web Information Management.
 ---
+
+{% include image.html url="/images/big_data.jpg" caption="" height="400px" align="right" %}
 
 ### Data Science, Big Data, and Machine Learning
 
