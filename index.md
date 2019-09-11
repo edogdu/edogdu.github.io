@@ -11,7 +11,7 @@ Professor of Computer Science at <a href="https://www.angelo.edu/content/profile
 
 Research Interests:
 - Data science and machine learning
-- Semantic web and linked data
+- <a href="https://www.w3.org/standards/semanticweb/" target="_blank">Semantic web</a> and <a href="http://linkeddata.org" target="_blank">linked data</a>
 - Internet of Things (IoT)
 
 {% include icon-github.html username="edogdu" %} /
