@@ -14,6 +14,11 @@ Research Interests:
 - <a href="https://www.w3.org/standards/semanticweb/" target="_blank">Semantic web</a> and <a href="http://linkeddata.org" target="_blank">linked data</a>
 - Internet of Things (IoT)
 
+Publications:
+- <a href="https://scholar.google.com/citations?user=qf_m43MAAAAJ&hl=en" target="_blank">Google Scholar profile</a>
+- <a href="https://www.researchgate.net/profile/Erdogan_Dogdu" target="_blank">ResearchGate profile</a>
+- <a href="https://angelo.academia.edu/ErdoganDogdu" target="_blank">Academia profile</a>
+
 {% include icon-github.html username="edogdu" %} /
 {% include icon-twitter.html username="erdogandogdu" %} /
 <i class='fa fa-fire'></i> <a href="http://edogdu.github.io">website</a>
