@@ -4,6 +4,11 @@ permalink: teaching.html
 title: Teaching
 ---
 
+<h2>Spring 2020</h2>
+<ul>
+<li><a title="Introduction to Programming and Problem Solving (Python)" href="https://piazza.com/angelo/spring2020/cs1314/home" target="_blank" rel="noopener">CS 1314 Introduction to Programming and Problem Solving (Python)</a></li>
+</ul>
+
 <h2>Fall 2019</h2>
 <ul>
 <li><a title="Java Programming" href="https://piazza.com/angelo/fall2019/cs1351/home" target="_blank" rel="noopener">CS 1351 Java Programming</a></li>
