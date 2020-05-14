@@ -10,7 +10,7 @@ permalink: /
 Professor of Computer Science at <a href="https://www.angelo.edu/content/profiles/9482-erdoan-dodu" target="_new">Angelo State University</a>
 
 Research Interests:
-- Big data
+- Big Data
 - Data science and machine learning
 - <a href="https://www.w3.org/standards/semanticweb/" target="_blank">Semantic web</a> and <a href="http://linkeddata.org" target="_blank">linked data</a>
 - Internet of Things (IoT)
