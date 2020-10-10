@@ -6,7 +6,7 @@ title: Teaching
 <h2>Fall 2020</h2>
 <ul>
 <li><a title="Introduction to Programming and Problem Solving (Python)" href="https://piazza.com/angelo/spring2020/cs1314/info" target="_blank" rel="noopener">CS 1314 Introduction to Programming and Problem Solving (Python)</a></li>
-<li>Software Engineering</li>
+<li>CS 4306 Software Engineering</li>
 </ul>
 
 <h2>Spring 2020</h2>
