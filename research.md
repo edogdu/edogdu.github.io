@@ -9,6 +9,8 @@ title: Research
             filter: drop-shadow(8px 8px 8px #111); 
         } 
 </style> 
+
+<img src='/images/edogdu_ofis_2020.png'/>
     
 ## Research Interests
 
