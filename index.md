@@ -6,6 +6,7 @@ permalink: /
 ---
  
 {% include image.html url="images/myself.png" caption="" height="400px" align="right" %} 
+<style> img { filter: drop-shadow(8px 8px 8px #111); } </style>
 
 Professor of Computer Science at <a href="https://www.angelo.edu/content/profiles/9482-erdoan-dodu" target="_new">Angelo State University</a>
 
